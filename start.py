@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # This is a comment. 
 # Lines beginning with a # are completely ignored by Python
@@ -22,3 +22,8 @@
 
 # Exercise 3
 # Clean this program up a bit by introducing variables
+
+# Exercise 4
+# Currently all of the output of the script gets printed to the screen (also called the console).
+# But by serving this script up using a webserver, the output of the program will be sent to the 
+# requesting users web browser and shown as a webpage.
