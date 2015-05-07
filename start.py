@@ -2,13 +2,21 @@
 
 # This is a comment. 
 # Lines beginning with a # are completely ignored by Python
+#
+
+
+# Ignore the next two lines for now
+#print "Content-type: text/html"
+#print
+
 
 
 # Below is a string
 "<!DOCTYPE html><html><body><h1>"
 
 # This is another one
-"</h1></body></html>"
+"</h1></body></html>\n")
+
 
 # Together these are almost an HTML document like we observed in the browser
 
