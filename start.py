@@ -15,7 +15,7 @@
 "<!DOCTYPE html><html><body><h1>"
 
 # This is another one
-"</h1></body></html>\n")
+"</h1></body></html>"
 
 
 # Together these are almost an HTML document like we observed in the browser
