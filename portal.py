@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 import cgitb
-# Above is an import statement. 
-# It is used to bring in additional functionality that is not a core part of Python.
+import cgi
+# Abovelines are "import" statements. 
+# They are used to bring in additional functionality that is not a core part of Python.
 
 cgitb.enable()
 form = cgi.FieldStorage()
